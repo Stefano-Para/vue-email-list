@@ -7,6 +7,7 @@ var app = new Vue (
         data: {
             randomEmail: "email casuale",
             arrayEmails: [],
+            // lunghezzamax: arrayEmails.length,
         },
         methods: {
 
